@@ -1,0 +1,53 @@
+/* tous le site */
+* {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.imagerecette{
+    width: 300px;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+h2{
+    color: beige;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    background-color: rgb(69, 90, 90);
+}
+
+p{
+    font-size: 23px;
+}
+
+
+.boutonhome{
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(42, 120, 165);
+    color: aliceblue;
+}
+
+
+/* page index */
+
+.menubouton {
+    font-size: 18px;
+}
+/* page coquito */
+
+
+
+/* page perfect crab */
+
+.ulingredients , .oletapes{
+    font-size: 22px;
+}
+/* page SCANDINAVIAN */
