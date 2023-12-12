@@ -4,6 +4,8 @@
 
 }
 .imagerecette{
+    display: block;
+    margin: auto;
     width: 300px;
     height: auto;
 }
@@ -16,6 +18,8 @@ h1{
 }
 
 h2{
+    border: solid 8px;
+    border-color: rgb(183, 183, 185);
     color: beige;
     font-weight: bold;
     font-size: 22px;
@@ -33,6 +37,7 @@ p{
     font-weight: bold;
     background-color: rgb(42, 120, 165);
     color: aliceblue;
+    
 }
 
 
@@ -41,6 +46,26 @@ p{
 .menubouton {
     font-size: 18px;
 }
+
+.menu1 {
+    background-color: rgb(145, 179, 230);
+    margin: 15px auto;
+    text-align: center;
+}
+
+
+.menu1 li {
+    justify-content: center;
+   background-color: rgb(139, 136, 136);
+   color: antiquewhite;
+    display: inline-block;
+    margin: 15px;
+    padding: 18px;
+    border: solid rgb(230, 225, 225);
+    width: 450px;
+
+}
+
 /* page coquito */
 
 
